@@ -1,0 +1,999 @@
+[
+  {
+    "bounty_indicator": null,
+    "question": "Uncaught ReferenceError: updateIngredient is not defined at HTMLButtonElement.editIngredient",
+    "question_hyperlink": "/questions/65711007/uncaught-referenceerror-updateingredient-is-not-defined-at-htmlbuttonelement-ed",
+    "excerpt": "\r\n            Not sure what I am doing wrong here but I am trying to create a simple update/edit function to be able to edit ingredients that exist with the dataset. I am getting the above error when doing so.\nHere ...\r\n        ",
+    "tags": [
+      "javascript",
+      "html",
+      "jquery",
+      "forms",
+      "button"
+    ],
+    "user_info": {
+      "action_time": "1 min ago",
+      "gravatar": "https://www.gravatar.com/avatar/361bfd60fa61dd58c47a5edd6f5273f8?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "MisterAnthropic",
+        "reputation_score": "1",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Save to Excel during loop (Pandas DataFrame)",
+    "question_hyperlink": "/questions/65711006/save-to-excel-during-loop-pandas-dataframe",
+    "excerpt": "\r\n            I am running a loop that creates a large dictionary and in the end, saves it to an excel file using pandas.\nHow do I save to the same excel file after X iterations instead of waiting until the end? ...\r\n        ",
+    "tags": [
+      "python",
+      "excel",
+      "pandas"
+    ],
+    "user_info": {
+      "action_time": "1 min ago",
+      "gravatar": "https://i.stack.imgur.com/KfJzc.jpg?s=32&g=1",
+      "user_details": {
+        "name": "2by",
+        "reputation_score": "982",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Why is the null conditional operator not allowed for property assignment?",
+    "question_hyperlink": "/questions/65711001/why-is-the-null-conditional-operator-not-allowed-for-property-assignment",
+    "excerpt": "\r\n            I just noticed that property assignment is not allowed in combination with the null conditional operator.\nWith methods is it not a problem at all though.\nI always thought that properties are just ...\r\n        ",
+    "tags": [
+      "c#",
+      "typescript",
+      "language-design",
+      "null-conditional-operator"
+    ],
+    "user_info": {
+      "action_time": "1 min ago",
+      "gravatar": "https://i.stack.imgur.com/esT32.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Dirk Boer",
+        "reputation_score": "6,837",
+        "badges": "9"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "qsort turns all values of array to null",
+    "question_hyperlink": "/questions/65711000/qsort-turns-all-values-of-array-to-null",
+    "excerpt": "\r\n            I have a program which reads in the lines of a text file and stores them in linesArr, I have also defined a function compFunc which takes two strings as inputs, makes copies of them and converts the ...\r\n        ",
+    "tags": [
+      "c",
+      "qsort"
+    ],
+    "user_info": {
+      "action_time": "1 min ago",
+      "gravatar": "https://www.gravatar.com/avatar/44f47d580c790e6388683877516045da?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "retsek680",
+        "reputation_score": "13",
+        "badges": "1"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How to create image carousel using advanced Javascript or more",
+    "question_hyperlink": "/questions/65710999/how-to-create-image-carousel-using-advanced-javascript-or-more",
+    "excerpt": "\r\n            I'm new to more advanced coding outside of simple JavaScript. I want to expand my skills and create an image slider that looks like this mock up I've created. I have no idea where to start with this ...\r\n        ",
+    "tags": [
+      "javascript",
+      "jquery",
+      "sass",
+      "slick.js",
+      "web-frontend"
+    ],
+    "user_info": {
+      "action_time": "1 min ago",
+      "gravatar": "https://lh6.googleusercontent.com/-88o5h1IILx0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmBuhfRqOSKAq4rD2HgCv60S6tkQ/s96-c/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Kodessa Mods",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Breadth first search problem from cses.fi",
+    "question_hyperlink": "/questions/65710998/breadth-first-search-problem-from-cses-fi",
+    "excerpt": "\r\n            I am having trouble debugging my program for the problem found here: https://cses.fi/problemset/task/1667/\nFor example, testing 2 1 1 2 gives a runtime error and I have no clue why it's doing this ...\r\n        ",
+    "tags": [
+      "c++",
+      "algorithm",
+      "breadth-first-search"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/459fbfab118e12896359039498af1241?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Ray",
+        "reputation_score": "101",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Can I make a database call within CompletableFuture runAsync?",
+    "question_hyperlink": "/questions/65710996/can-i-make-a-database-call-within-completablefuture-runasync",
+    "excerpt": "\r\n            I have a use case where I need to make a database call to retrieve some data within the runAsync(). I have the following method:\nreturn CompletableFuture.runAsync(() -> {\n        // Line 1\n        /...\r\n        ",
+    "tags": [
+      "java",
+      "completable-future"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/7085b1d6ca17b67d55baa4b981d574a4?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "linuxNoob",
+        "reputation_score": "386",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Referencing a enum defined in another proto",
+    "question_hyperlink": "/questions/65710994/referencing-a-enum-defined-in-another-proto",
+    "excerpt": "\r\n            In A.proto, I defined an enum called Foo. Then in  B.proto, I referenced this enum as:\nmessage Bar {\n    .pathofA.Foo foo = 1;\n}\n\nNotice that  A.proto does not have a go_proto_library declared. It's ...\r\n        ",
+    "tags": [
+      "go",
+      "protocol-buffers",
+      "proto"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://lh5.googleusercontent.com/-AIYkswKxx0k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl42VjpqfUA2At3zOml9yxJsu9L6A/s96-c/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Cecilia",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "DEP error after printf in nasm with visual c",
+    "question_hyperlink": "/questions/65710993/dep-error-after-printf-in-nasm-with-visual-c",
+    "excerpt": "\r\n            I have a strange problem with a very basic task (I just want to print something in console).\nSo I have c++ program which runs asm function, and this asm function should just print text and return 3 to ...\r\n        ",
+    "tags": [
+      "c++",
+      "c",
+      "assembly",
+      "nasm"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/6b3d74ac527e13fa5929519d9c007716?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Xmno",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "why getting COMPRESSTION_ERROR HPACK_INVALID_INDEX in chrome when rendering http2 page",
+    "question_hyperlink": "/questions/65710992/why-getting-compresstion-error-hpack-invalid-index-in-chrome-when-rendering-http",
+    "excerpt": "\r\n            anybody can help me that why i get net::ERR_HTTPS_COMPRESSION_ERROR in chrome.\nError in chrome\nwith  wireshark i found more details\nwireshark error detail\ni use HPACK package in .net 5 for create ...\r\n        ",
+    "tags": [
+      "c#",
+      "google-chrome",
+      "webserver",
+      "http2",
+      "hpack"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://i.stack.imgur.com/mczsT.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Ali Qamsari",
+        "reputation_score": "1",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How delete class from intent kotlin",
+    "question_hyperlink": "/questions/65710989/how-delete-class-from-intent-kotlin",
+    "excerpt": "\r\n            I have broadcastReciever,which i registered in activity. I want to modify existing intent,to start activities with it,but i not understand,how i can delete class from my intent. When i try to do ...\r\n        ",
+    "tags": [
+      "android",
+      "class",
+      "kotlin",
+      "android-intent",
+      "compilation"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://lh6.googleusercontent.com/-24TrIi3k3Sg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rca8ojLlq2OJlmWadtTSFuhV2_8mg/mo/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Aleksandr Kozlovskiy",
+        "reputation_score": "71",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Accessing field of an object",
+    "question_hyperlink": "/questions/65710988/accessing-field-of-an-object",
+    "excerpt": "\r\n            I'm new to React and for learning purpose I'm trying to create an App, but when I'm compiling my code I'm getting error\nTypeError: Cannot read property 'state' of undefined.\nCan someone please help me ...\r\n        ",
+    "tags": [
+      "json",
+      "reactjs",
+      "object"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AOh14Gj6D27urs9nNfyadVPNYbEWDFPR4BalVJuoQGSVBQ=s96-c=k-s32",
+      "user_details": {
+        "name": "RJay",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Reusable Alpine.js components?",
+    "question_hyperlink": "/questions/65710987/reusable-alpine-js-components",
+    "excerpt": "\r\n            How do I use Alpine.js to create a reusable component and display it? E.g., maybe I want to define an generic Alpine.js button component that changes text and color from parameters, then have my ...\r\n        ",
+    "tags": [
+      "javascript",
+      "alpine.js"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/64bc17b57ffcff98e96702f1216d8be6?s=32&d=identicon&r=PG",
+      "user_details": {
+        "name": "spiffytech",
+        "reputation_score": "5,027",
+        "badges": "5"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Looping OPENROWSET statements based on file folder contents",
+    "question_hyperlink": "/questions/65710986/looping-openrowset-statements-based-on-file-folder-contents",
+    "excerpt": "\r\n            Our SQL Server (2014) has a variable number of uniform .XLSX  files dropped in it daily. Any given day, there could be a variable number of 5-20 files with various file names. Thankfully, They all ...\r\n        ",
+    "tags": [
+      "sql-server",
+      "loops",
+      "openrowset"
+    ],
+    "user_info": {
+      "action_time": "2 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/3bbfec0708cd4c3d3e4818c3baf6118c?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Depth of Field",
+        "reputation_score": "81",
+        "badges": "7"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Python cannot find file even if it exists on network drive",
+    "question_hyperlink": "/questions/65710981/python-cannot-find-file-even-if-it-exists-on-network-drive",
+    "excerpt": "\r\n            I have a python script that cannot read a file with the error:\n No such file or directory: '\\\\hostname\\\\cmwf2\\templates\\\\kg.txt'\n\nI understand that python automatically puts an extra backslash. It ...\r\n        ",
+    "tags": [
+      "python-3.x"
+    ],
+    "user_info": {
+      "action_time": "3 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/08ee7269f7d8d5da435e00d62f3310c6?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Victor",
+        "reputation_score": "14.6k",
+        "badges": "61"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "what is the right way of importing a maven project in Eclipse and run it as a Java project?",
+    "question_hyperlink": "/questions/65710978/what-is-the-right-way-of-importing-a-maven-project-in-eclipse-and-run-it-as-a-ja",
+    "excerpt": "\r\n            I don't understand exactly what is the way of working with maven projects in Eclipse.\nThe problems I have are often with projects  I download from github. If I set the project myself it usually work, ...\r\n        ",
+    "tags": [
+      "eclipse",
+      "maven"
+    ],
+    "user_info": {
+      "action_time": "3 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/c9f5a4a1f1c60ba0ede3de2874c017c8?s=32&d=identicon&r=PG",
+      "user_details": {
+        "name": "Glasnhost",
+        "reputation_score": "745",
+        "badges": "7"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Out-file , txt are created , no data saved",
+    "question_hyperlink": "/questions/65710975/out-file-txt-are-created-no-data-saved",
+    "excerpt": "\r\n            $session = New-PSSession Comp1,Comp2,Comp3\n\nInvoke-Command -Session $session -ScriptBlock {\n\nGet-ChildItem 'C:\\Program Files\\' -Force -Filter \"example\" }\n\nSelect-Object LastWriteTime | Out-...\r\n        ",
+    "tags": [
+      "powershell",
+      "logging",
+      "txt"
+    ],
+    "user_info": {
+      "action_time": "4 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/fe3b57987c66a38d953b5029da2aa25e?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "NOCCQ",
+        "reputation_score": "19",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Any hook in WordPress that runs after session is started?",
+    "question_hyperlink": "/questions/65710972/any-hook-in-wordpress-that-runs-after-session-is-started",
+    "excerpt": "\r\n            I need to set a session value in my plugin, but session isn't started when WordPress loads my plugin and I don't want to run if (!session_id()) session_start(); manually, because other plugins might ...\r\n        ",
+    "tags": [
+      "php",
+      "wordpress"
+    ],
+    "user_info": {
+      "action_time": "4 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/8e69beab3c816747acbee57e5304df85?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "J. Doe",
+        "reputation_score": "673",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "For the vector v = [2.0, -3.5, 5.1]: Find the L1 norm of v",
+    "question_hyperlink": "/questions/65710968/for-the-vector-v-2-0-3-5-5-1-find-the-l1-norm-of-v",
+    "excerpt": "\r\n            Can you please help me to solve this question? I tried and my codes produce the following output 6.500769185258003 but still, the system says the wrong answer. Can you please tell me what I am missing?...\r\n        ",
+    "tags": [
+      "python",
+      "numpy"
+    ],
+    "user_info": {
+      "action_time": "5 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/-ABzUDQOKOLI/AAAAAAAAAAI/AAAAAAAAAEM/L7m-ZRwxW6s/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Tauqeer Ahmad",
+        "reputation_score": "33",
+        "badges": "9"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How to extract weights from a trained Spark MLP model?",
+    "question_hyperlink": "/questions/65710967/how-to-extract-weights-from-a-trained-spark-mlp-model",
+    "excerpt": "\r\n            I'm interested in extracting the trained weights of Spark Multi-Layer Perceptron (MLP) model: https://spark.apache.org/docs/latest/ml-classification-regression.html#multilayer-perceptron-classifier\n...\r\n        ",
+    "tags": [
+      "apache-spark-mllib"
+    ],
+    "user_info": {
+      "action_time": "5 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/f0e4a5f52cfcbaa7b27d957da309c8eb?s=32&d=identicon&r=PG",
+      "user_details": {
+        "name": "Vadim Smolyakov",
+        "reputation_score": "1,077",
+        "badges": "9"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "TURLEncoding.Base64.Encode adds Linebreak?",
+    "question_hyperlink": "/questions/65710966/turlencoding-base64-encode-adds-linebreak",
+    "excerpt": "\r\n            It seems that URLEncoding.Base64.Encode adds a linebreak in long strings. Can I turn that off somehow? I didnt find any properties for that...\r\n        ",
+    "tags": [
+      "delphi",
+      "base64"
+    ],
+    "user_info": {
+      "action_time": "5 mins ago",
+      "gravatar": "https://i.stack.imgur.com/5WrUx.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Wolfgang Bures",
+        "reputation_score": "231",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "CMake check linker version",
+    "question_hyperlink": "/questions/65710963/cmake-check-linker-version",
+    "excerpt": "\r\n            I am looking for a way for CMake to query which version of the linker is currently being used. I have to fail a build if the linker version is too high or low. So far I could not find an easy way to ...\r\n        ",
+    "tags": [
+      "cmake",
+      "linker",
+      "ldd"
+    ],
+    "user_info": {
+      "action_time": "5 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/73fb1d5bb25f6ef1a38bd969bd4433b0?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "kitten_woof",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Function with the same argument does not return the same value",
+    "question_hyperlink": "/questions/65710962/function-with-the-same-argument-does-not-return-the-same-value",
+    "excerpt": "\r\n            I was \"playing\" with the fast inverse sqrt function by trying to optimize certain things (fewer variables etc). Here is the final code:\nfloat Q_rsqrt(float x) { //IS SMALLER\n    const float ...\r\n        ",
+    "tags": [
+      "c",
+      "uint64"
+    ],
+    "user_info": {
+      "action_time": "5 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AOh14GjB2h4BztZginlHcrxrog3-jnCE2owsoA5bj5qZuw=k-s32",
+      "user_details": {
+        "name": "TheBigBadBoy",
+        "reputation_score": "57",
+        "badges": "5"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How must be Nginx sites-available default configuration for Nuxt",
+    "question_hyperlink": "/questions/65710959/how-must-be-nginx-sites-available-default-configuration-for-nuxt",
+    "excerpt": "\r\n            This is my nginx sites-available/default file. But when i restart nginx automatically closed nginx. Error is : nginx: [emerg] invalid number of arguments in \"location\" directive in /etc/...\r\n        ",
+    "tags": [
+      "ubuntu",
+      "nginx",
+      "nuxt.js"
+    ],
+    "user_info": {
+      "action_time": "6 mins ago",
+      "gravatar": "https://i.stack.imgur.com/pGjUK.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Orates",
+        "reputation_score": "3",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Weird double behavior [duplicate]",
+    "question_hyperlink": "/questions/65710957/weird-double-behavior",
+    "excerpt": "\r\n            I stumbled upon some weird behavior in a unit test recently.\n\ninitializing a double with 123456789\ndivide it by 100000000 (1e8)\nmultiply again with 1e8\ncompare and find the values different (123456789 ...\r\n        ",
+    "tags": [
+      "c#",
+      ".net"
+    ],
+    "user_info": {
+      "action_time": "6 mins ago",
+      "gravatar": "https://i.stack.imgur.com/QxB14.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Andreas",
+        "reputation_score": "736",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Is it possible to copy something off the web page and paste it on a text file on my pc in selenium with python?",
+    "question_hyperlink": "/questions/65710956/is-it-possible-to-copy-something-off-the-web-page-and-paste-it-on-a-text-file-on",
+    "excerpt": "\r\n            Basically want I want is for a button to be clicked and when it clicks that button it will copy and paste the output and put it on a text file on my PC or in the console. I already understand the ...\r\n        ",
+    "tags": [
+      "python",
+      "python-3.x",
+      "selenium",
+      "selenium-webdriver",
+      "webdriver"
+    ],
+    "user_info": {
+      "action_time": "6 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AOh14GiAnMtK1UZIDfoA7M9IYZD3AthVYSXz-KNoQjTfaw=s96-c=k-s32",
+      "user_details": {
+        "name": "Adam Ksouri",
+        "reputation_score": "17",
+        "badges": "1"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Flutter - Socket.Connect() - SocketException: OS Error: Connection timed out",
+    "question_hyperlink": "/questions/65710951/flutter-socket-connect-socketexception-os-error-connection-timed-out",
+    "excerpt": "\r\n            When I was working on debug mode (with \"flutter run\") by using my device (real), Socket.Connect() method doesn't work.\nIn shortly;\n\nI opened a server (TCP) with Python.\n\nI wrote the Flutter ...\r\n        ",
+    "tags": [
+      "flutter",
+      "sockets",
+      "dart",
+      "tcp"
+    ],
+    "user_info": {
+      "action_time": "7 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AAuE7mCWsCLGuf-onukxo-Y43nTaaYJCZpFvhpLifwv0=k-s32",
+      "user_details": {
+        "name": "Serif İnanir",
+        "reputation_score": "1",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Adding custom name suffixes to Nameparser in Python",
+    "question_hyperlink": "/questions/65710949/adding-custom-name-suffixes-to-nameparser-in-python",
+    "excerpt": "\r\n            I'm using Nameparser to parse the names of a database of full names stored as a single string. I've been trying to add custom suffixes with little success.\nfrom nameparser import HumanName\nfrom ...\r\n        ",
+    "tags": [
+      "python"
+    ],
+    "user_info": {
+      "action_time": "7 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/988bf8d423d303fc6dac984a03900995?s=32&d=identicon&r=PG",
+      "user_details": {
+        "name": "vikjam",
+        "reputation_score": "433",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "aspnetcore equivalent methods in asp.net mvc",
+    "question_hyperlink": "/questions/65710948/aspnetcore-equivalent-methods-in-asp-net-mvc",
+    "excerpt": "\r\n            I am trying to add an api method in an old asp.net mvc application with code that works in asp.net core but I'm not sure how to pass back the data in the same format. Specifically, I am looking for ...\r\n        ",
+    "tags": [
+      "asp.net-mvc",
+      "asp.net-core",
+      "azure-ad-b2c"
+    ],
+    "user_info": {
+      "action_time": "7 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/97fca2331e0e822246332e6e084209a4?s=32&d=identicon&r=PG",
+      "user_details": {
+        "name": "Riz",
+        "reputation_score": "5,494",
+        "badges": "15"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "QEMU PCI Device fires forever",
+    "question_hyperlink": "/questions/65710947/qemu-pci-device-fires-forever",
+    "excerpt": "\r\n            I've written a small PCI device in QEMU using https://github.com/qemu/qemu/blob/v2.7.0/hw/misc/edu.c as a base, and https://github.com/cirosantilli/linux-kernel-module-cheat/blob/...\r\n        ",
+    "tags": [
+      "interrupt",
+      "qemu",
+      "pci"
+    ],
+    "user_info": {
+      "action_time": "7 mins ago",
+      "gravatar": "https://lh5.googleusercontent.com/-_q0V6XZcS5c/AAAAAAAAAAI/AAAAAAAABeM/Bmdf1MpnjTQ/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Jammy Dodger",
+        "reputation_score": "2,058",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Discord music bot python leaves channel after 2 minutes of playing music",
+    "question_hyperlink": "/questions/65710946/discord-music-bot-python-leaves-channel-after-2-minutes-of-playing-music",
+    "excerpt": "\r\n            I am a beginner in python. I'm trying to make a discord bot that plays music at a specific time. And everything works for about one minute and after this time bot just stops playing music and after ...\r\n        ",
+    "tags": [
+      "python",
+      "discord.py"
+    ],
+    "user_info": {
+      "action_time": "7 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/434ede20e17d0759b5355d7f51b579ab?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "SZERSZENEDEK",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Cannot require config module 3 directories away in nodejs",
+    "question_hyperlink": "/questions/65710944/cannot-require-config-module-3-directories-away-in-nodejs",
+    "excerpt": "\r\n            I have this line const config = require(\".../config\"); in user.controller.js.\nThis is my directory structure:\r\n        ",
+    "tags": [
+      "javascript",
+      "node.js"
+    ],
+    "user_info": {
+      "action_time": "8 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/593bea2d1b6872539e836ce0443718d3?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "svoruganti",
+        "reputation_score": "152",
+        "badges": "10"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "pass one float to shader, but “Uncaught ReferenceError: wave is not defined”",
+    "question_hyperlink": "/questions/65710943/pass-one-float-to-shader-but-uncaught-referenceerror-wave-is-not-defined",
+    "excerpt": "\r\n            I am learning shader, trying to pass a variable in js to the uniform of the shader, and then follow the wave to control the change of the shader. But the error \"Uncaught ReferenceError: wave is ...\r\n        ",
+    "tags": [
+      "javascript",
+      "opengl",
+      "glsl",
+      "shader"
+    ],
+    "user_info": {
+      "action_time": "8 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/ac216819fcefb32467f7a9c662b1d3c7?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "SSQ",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How can I control the size of text when using AddOLEObject to insert formatted text from a Word doc onto a PowerPoint slide?",
+    "question_hyperlink": "/questions/65710942/how-can-i-control-the-size-of-text-when-using-addoleobject-to-insert-formatted-t",
+    "excerpt": "\r\n            I'm using the following line of code to insert text from a Word document into PowerPoint. I'm doing it this way because I need the formatting (strikethrough, bolding, etc.) to be maintained for the ...\r\n        ",
+    "tags": [
+      "c#",
+      "powerpoint",
+      "vsto",
+      "ms-office",
+      "word"
+    ],
+    "user_info": {
+      "action_time": "8 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/6ee1345a5296bc5a95e52105d17c5583?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Matt",
+        "reputation_score": "105",
+        "badges": "10"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "What can I use to remove new lines from text in a shell script (e.g. using sed or grep)",
+    "question_hyperlink": "/questions/65710941/what-can-i-use-to-remove-new-lines-from-text-in-a-shell-script-e-g-using-sed-o",
+    "excerpt": "\r\n            I am using zsh on macOS\nI have a shell script that produces a text file with speedtest results in the following layout:\n Download:    63.57 Mbps (data used: 69.3 MB)                               \n\n ...\r\n        ",
+    "tags": [
+      "shell",
+      "unix",
+      "terminal",
+      "command-line-interface",
+      "zsh"
+    ],
+    "user_info": {
+      "action_time": "8 mins ago",
+      "gravatar": "https://i.stack.imgur.com/gAk54.jpg?s=32&g=1",
+      "user_details": {
+        "name": "Dan",
+        "reputation_score": "1",
+        "badges": "1"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How to Handle “zip code” window popup without iframe in Amazon using Selenium and python programing",
+    "question_hyperlink": "/questions/65710938/how-to-handle-zip-code-window-popup-without-iframe-in-amazon-using-selenium-an",
+    "excerpt": "\r\n            I almost try every code which is related to popup windows using programing language is python coding and selenium but none of them is working send.key(\"XXXXX\") command in zip code. Because ...\r\n        ",
+    "tags": [
+      "iframe",
+      "selenium-chromedriver",
+      "popupwindow",
+      "zipcode",
+      "web-scraping-language"
+    ],
+    "user_info": {
+      "action_time": "9 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/33ba19d8bbf71cb264637e28b7ac138c?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "DmC6199",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Plot disconnected line in ggplot",
+    "question_hyperlink": "/questions/65710936/plot-disconnected-line-in-ggplot",
+    "excerpt": "\r\n            I want to create a chart with disconnected lines using ggplot\n# Sample data\nx <- seq(1:100)\ny <- c(rnorm(25, mean = 1, sd = 1), rnorm(25, mean = 2, sd = 1), rnorm(25, mean = 3, sd = 1), rnorm(25,...\r\n        ",
+    "tags": [
+      "r",
+      "ggplot2"
+    ],
+    "user_info": {
+      "action_time": "9 mins ago",
+      "gravatar": "https://lh5.googleusercontent.com/-P1Y2eNfuxTk/AAAAAAAAAAI/AAAAAAAAAAA/H7eD0zaVP9Y/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Ashish Singhal",
+        "reputation_score": "445",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Manipulate data from dataframe produced from Robinhood API and append results",
+    "question_hyperlink": "/questions/65710935/manipulate-data-from-dataframe-produced-from-robinhood-api-and-append-results",
+    "excerpt": "\r\n            I am very new to python, but with some help online I was recently able to write some code that was very clean.\nmyData[[('Cumulative Max', c) for c in myData['High'].columns]] = myData['High'].cummax()\n...\r\n        ",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "loops",
+      "append"
+    ],
+    "user_info": {
+      "action_time": "9 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/43ec8a0d4e3168e01b94be2cb46050dd?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "XCELLGUY",
+        "reputation_score": "139",
+        "badges": "8"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "500 Internal error when trying to create channel in MS Teams using MS Graph API",
+    "question_hyperlink": "/questions/65710933/500-internal-error-when-trying-to-create-channel-in-ms-teams-using-ms-graph-api",
+    "excerpt": "\r\n            I need to create a channel under a Team using Graph API but keep receiving internal 500 error. Here is my code.\n    g = Group()\n    channel = {\n        \"displayName\": g.channel_name,\n        ...\r\n        ",
+    "tags": [
+      "python",
+      "microsoft-graph-api",
+      "ms-office"
+    ],
+    "user_info": {
+      "action_time": "9 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/f00570a8a7652492a0706ba6c56188cb?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "mike",
+        "reputation_score": "81",
+        "badges": "7"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How do you convert a decimal to an 8-bit signed binary?",
+    "question_hyperlink": "/questions/65710932/how-do-you-convert-a-decimal-to-an-8-bit-signed-binary",
+    "excerpt": "\r\n            Say I need to convert the decimal -125 to a signed 8-bit integer, how do I do this?\nI’m a computing student and I’m struggling how to figure it out. I understand the basics of converting it to base 2 ...\r\n        ",
+    "tags": [
+      "binary",
+      "decimal"
+    ],
+    "user_info": {
+      "action_time": "9 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/ba89a9b113e76fb2aecbae769ba91c3e?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Xman212",
+        "reputation_score": "1",
+        "badges": "1"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "How to filter from two JSON fields at the same time (SwiftUI)",
+    "question_hyperlink": "/questions/65710931/how-to-filter-from-two-json-fields-at-the-same-time-swiftui",
+    "excerpt": "\r\n            I'm trying to filter data from two JSON fields at the same time depending on the system language: at this point, system language recognition seems to work (because different elements appears according ...\r\n        ",
+    "tags": [
+      "json",
+      "filter",
+      "swiftui",
+      "field"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/6bef32835f545ed3e61fee2f6b628854?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "pierofrezza",
+        "reputation_score": "15",
+        "badges": "6"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "What is eigen strong inline optimization when building tensorflow?",
+    "question_hyperlink": "/questions/65710930/what-is-eigen-strong-inline-optimization-when-building-tensorflow",
+    "excerpt": "\r\n            I tried to build without it and build takes around 20-30 minutes, now I'm trying to build tensorflow with this option on and it took already more than 6 hours. But I cant find any information about ...\r\n        ",
+    "tags": [
+      "tensorflow"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh6.googleusercontent.com/-zSZIcbjOyUg/AAAAAAAAAAI/AAAAAAAAAE0/IR1EuQVg4FM/photo.jpg?sz=32",
+      "user_details": {
+        "name": "thought_sync",
+        "reputation_score": "1",
+        "badges": "2"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Uploading binary App Store Connect from CodeMagic",
+    "question_hyperlink": "/questions/65710927/uploading-binary-app-store-connect-from-codemagic",
+    "excerpt": "\r\n            I am trying to create the release build of my flutter app on CodeMagic. The debug build went well but the release build had the following error during the Installing Dependencies process:\n\napp-store-...\r\n        ",
+    "tags": [
+      "flutter",
+      "codemagic"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/67ddacb18057ab461b3789530fea7222?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "LostTexan",
+        "reputation_score": "23",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Differentiaing between Group vs Individual chat in #microsoft-teams",
+    "question_hyperlink": "/questions/65710924/differentiaing-between-group-vs-individual-chat-in-microsoft-teams",
+    "excerpt": "\r\n            Moving off Skype onto teams seems okay but i can not differentiate between GroupChat v Individual Chat sounds. Being able to tailor would be nice. #microsoft-teams\r\n        ",
+    "tags": [
+      "microsoft-teams"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AOh14Gi4XxArIK_gA2CrGqd2NnY72D3LAsfIECFeqRiTMQ=s96-c=k-s32",
+      "user_details": {
+        "name": "R J Jamison",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Dotted border appears as “solid” in chrome",
+    "question_hyperlink": "/questions/65710923/dotted-border-appears-as-solid-in-chrome",
+    "excerpt": "\r\n            I have an input field inside a tbody tr.\nI made its border dotted when hovering (with CSS). It works well on Firefox, but, it does not work in Chrome.\nIn Chrome the border line is being shown as \"...\r\n        ",
+    "tags": [
+      "html",
+      "css",
+      "google-chrome"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh4.googleusercontent.com/-t9aRVlYpcF8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reWvNwfJQiMX0rQGc8mdLmHUElsDQ/mo/photo.jpg?sz=32",
+      "user_details": {
+        "name": "IdoS",
+        "reputation_score": "49",
+        "badges": "1"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Ktor is not importing even after declaring dependencies",
+    "question_hyperlink": "/questions/65710922/ktor-is-not-importing-even-after-declaring-dependencies",
+    "excerpt": "\r\n            I'm working on a Kotlin Multiplatform project and currently am trying to integrate Ktor framework in shared module. Following Ktor multiplatform notes I'm declaring dependencies in module's build....\r\n        ",
+    "tags": [
+      "android-studio",
+      "gradle",
+      "kotlin-multiplatform",
+      "ktor",
+      "kotlin-native"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh6.googleusercontent.com/-QsE7It-y9kA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAhNXeiCOvNylcL23SPi24RjSnYA/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Petr Grigorev",
+        "reputation_score": "171",
+        "badges": "6"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Need assistance scraping table from basketball-reference",
+    "question_hyperlink": "/questions/65710921/need-assistance-scraping-table-from-basketball-reference",
+    "excerpt": "\r\n            This is what the table looks like\nHi! I'm very new to webscraping and I have been trying to figure out how to scrape this table for the longest time. I found some other codes online and tried them out ...\r\n        ",
+    "tags": [
+      "python"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh3.googleusercontent.com/a-/AOh14GhlMEKYi8gH9vxvBAP0iOVyT0ppKbNWVz1kueavIA=s96-c=k-s32",
+      "user_details": {
+        "name": "bmatt23",
+        "reputation_score": "1",
+        "badges": "0"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Why I don't see my website django server?",
+    "question_hyperlink": "/questions/65710920/why-i-dont-see-my-website-django-server",
+    "excerpt": "\r\n            I am using docker and when I type docker ps -a I got that :\nf4dbcbca9baf        web             \"python manage.py runserver 0.0.0.0:8000\"   4 minutes ago       Up 4 minutes        0.0.0.0:...\r\n        ",
+    "tags": [
+      "docker"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://www.gravatar.com/avatar/1e73e9d5e4bbb423fceeef96aba1365a?s=32&d=identicon&r=PG&f=1",
+      "user_details": {
+        "name": "Peter",
+        "reputation_score": "65",
+        "badges": "4"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "FileReader vs FormData for uploading a file using websockets?",
+    "question_hyperlink": "/questions/65710919/filereader-vs-formdata-for-uploading-a-file-using-websockets",
+    "excerpt": "\r\n            Is there any benefit in using FileReader over FormData for uploading files using websockets in JavaScript?\nAny performance advantages?\nAny preference based on other traits?\r\n        ",
+    "tags": [
+      "javascript",
+      "file-upload",
+      "websocket",
+      "filereader",
+      "form-data"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://lh4.googleusercontent.com/-WfFzGQXXajc/AAAAAAAAAAI/AAAAAAAAGKA/K6_1SgH5EaQ/photo.jpg?sz=32",
+      "user_details": {
+        "name": "Simon Nazarenko",
+        "reputation_score": "47",
+        "badges": "3"
+      }
+    }
+  },
+  {
+    "bounty_indicator": null,
+    "question": "Protractor cucumber passing value from one step to Another step",
+    "question_hyperlink": "/questions/65710918/protractor-cucumber-passing-value-from-one-step-to-another-step",
+    "excerpt": "\r\n            What is the best way to share data between steps. Is there any best practices like scenario context or something of that sort in protrator?\r\n        ",
+    "tags": [
+      "protractor"
+    ],
+    "user_info": {
+      "action_time": "10 mins ago",
+      "gravatar": "https://graph.facebook.com/10153751773011984/picture?type=large",
+      "user_details": {
+        "name": "Anish Kumar K",
+        "reputation_score": "3",
+        "badges": "1"
+      }
+    }
+  }
+]
