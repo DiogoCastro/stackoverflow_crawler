@@ -1,14 +1,17 @@
+import datetime
+import re
 import scrapy
 from ..items import StackOverflowItem
 
 
 class BountiesSpider(scrapy.Spider):
     name = 'bounties'
-    start_urls = ['http://www.stackoverflow.com/questions?tab=Bounties/']
+    base_url = 'http://www.stackoverflow.com'
+    start_urls = ['http://www.stackoverflow.com/questions?tab=Bounties']
 
     user_details = {'name': '', 'reputation_score': '', 'badges': ''}
     user_info = {
-        'action_time': '',
+        'asked_at': '',
         'gravatar': '',
         'user_details': user_details,
     }
@@ -32,7 +35,7 @@ class BountiesSpider(scrapy.Spider):
             tags = question.css('.post-tag::text').extract()
 
             # USER INFO
-            action_time = question.css(
+            asked_at = question.css(
                 'div.started .user-info .user-action-time span.relativetime::text'
             ).extract_first()
             gravatar = question.css(
@@ -57,16 +60,24 @@ class BountiesSpider(scrapy.Spider):
             ) = (user_name, reputation_score, badges or '0')
 
             (
-                self.user_info['action_time'],
+                self.user_info['asked_at'],
                 self.user_info['gravatar'],
                 self.user_info['user_details'],
-            ) = (action_time, gravatar, self.user_details)
+            ) = (asked_at, gravatar, self.user_details)
 
-            items['bounty_indicator'] = bounty_indicator
+            items['crawled_at'] = datetime.datetime.now()
+            items['bounty_indicator'] = re.sub(r'[^\w]', '', bounty_indicator)
             items['question'] = question_text
-            items['question_hyperlink'] = question_hyperlink
-            items['excerpt'] = excerpt
+            items['question_hyperlink'] = f'{self.base_url}{question_hyperlink}'
+            items['excerpt'] = excerpt.strip()
             items['tags'] = tags
             items['user_info'] = self.user_info
 
             yield items
+
+        next_page = response.css(
+            'div.s-pagination.pager.fl a[rel="next"]::attr(href)',
+        ).get()
+
+        if next_page:
+            yield response.follow(next_page, callback=self.parse)

@@ -2,6 +2,7 @@ import scrapy
 
 
 class StackOverflowItem(scrapy.Item):
+    crawled_at = scrapy.Field()
     bounty_indicator = scrapy.Field()
     question = scrapy.Field()
     question_hyperlink = scrapy.Field()
